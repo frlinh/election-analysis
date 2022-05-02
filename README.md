@@ -1,5 +1,5 @@
 # An Analysis of Election Votes
-___
+
 ## Project Overview
 Performed data analysis on election data for three counties in the State of Colorado.  The analysis calculated the total number of votes cast, compiled a list of candidates who received votes, calculated the total number of votes each candidate received, calculated the percentage of votes each candidate won, and determined the winner of the election based on the popular vote.
 
